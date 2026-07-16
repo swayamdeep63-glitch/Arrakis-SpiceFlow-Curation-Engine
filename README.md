@@ -13,3 +13,11 @@ Open your terminal or command prompt and run the following command to install al
 
 ```bash
 pip install streamlit numpy pandas plotly scikit-learn graphviz
+
+## 💻 Usage
+
+Once the dependencies are installed, start the Streamlit server by running:
+
+```bash
+streamlit run app.py
+

@@ -172,12 +172,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🎬 Inspiration
-
-This project draws aesthetic and thematic inspiration from the cinematic universe of **Dune**, particularly the visual language and atmosphere of Dune: Part Two. The brutalist design philosophy emphasizes functionality, minimalism, and immersive data-driven storytelling.
-
----
-
 ## 📧 Support
 
 For questions, issues, or suggestions, please open an issue on the GitHub repository or contact the maintainers directly.
